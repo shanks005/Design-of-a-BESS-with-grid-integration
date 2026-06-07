@@ -42,7 +42,7 @@ In this mode, excess power from the PV array or grid is used to charge the batte
 
 The boost converter maintains the DC-link voltage required for grid-side inverter operation.
 
-![Battery Charging Mode](https://github.com/shanks005/Design-of-a-BESS-with-grid-integration/blob/main/battery_during_charging.png)
+![Battery Charging Mode](https://github.com/shanks005/Design-of-a-BESS-with-grid-integration/blob/main/battery_during_charging.pdf)
 
 ---
 
