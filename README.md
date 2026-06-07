@@ -42,7 +42,7 @@ In this mode, excess power from the PV array or grid is used to charge the batte
 
 The boost converter maintains the DC-link voltage required for grid-side inverter operation.
 
-![Battery Charging Mode](images/state1_charging.png)
+![Battery Charging Mode](https://github.com/shanks005/Design-of-a-BESS-with-grid-integration/blob/main/battery_charging.png)
 
 ---
 
@@ -52,7 +52,7 @@ In this mode, the battery supplies power to the DC-link through the DC-DC conver
 
 The battery current becomes positive depending on the sign convention, and the state of charge decreases.
 
-![Battery Discharging Mode](images/state2_discharging.png)
+![Battery Discharging Mode](https://github.com/shanks005/Design-of-a-BESS-with-grid-integration/blob/main/battery_during_discharging.png)
 
 ---
 
@@ -62,7 +62,7 @@ In standby mode, the battery neither charges nor discharges significantly. The b
 
 This state is useful when the PV array or grid is able to maintain the DC-link without requiring battery support.
 
-![Battery Standby Mode](images/state3_standby.png)
+![Battery Standby Mode](https://github.com/shanks005/Design-of-a-BESS-with-grid-integration/blob/main/battery_standstill.png)
 
 ---
 
