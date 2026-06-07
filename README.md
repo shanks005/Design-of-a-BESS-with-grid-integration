@@ -1,4 +1,4 @@
-# Battery Energy Storage System with Grid Integration
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/4505499e-cf53-400a-89c7-3c39a21ca27a" /># Battery Energy Storage System with Grid Integration
 
 ## Project Overview
 
@@ -28,7 +28,7 @@ The overall system consists of:
 
 ## System Block Diagram
 
-![BESS Grid Integration System](
+![BESS Grid Integration System](https://github.com/shanks005/Design-of-a-BESS-with-grid-integration/blob/main/ac_side_closed_loop.png)
 
 ---
 
