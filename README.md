@@ -1,12 +1,12 @@
 <img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/4505499e-cf53-400a-89c7-3c39a21ca27a" /># Battery Energy Storage System with Grid Integration
 
-## Project Overview
+## Brief Overview
 
-This project presents the design and simulation of a Battery Energy Storage System (BESS) integrated with a grid-connected inverter. The system is designed to support energy exchange between a photovoltaic source, battery storage, DC-link, inverter, and grid.
+This project focuses on the design and simulation of a Battery Energy Storage System integrated with a grid-connected inverter. The system includes a PV array, boost converter, battery storage, DC-link, three-phase inverter, and grid connection.
 
-The main objective of this project is to analyze the operation of the battery energy storage system under different operating states such as charging, discharging, and standby condition. The simulation also studies grid-side voltage and current behavior, boost converter output, battery state of charge, battery voltage, and battery current.
+The battery is tested under three operating conditions: charging, discharging, and standby mode. For each condition, the grid-side voltage and current, boost converter output, battery SOC, battery voltage, and battery current are observed.
 
-A key observation from the simulation is that the inverter-side current and grid-side current are not properly synchronized in open-loop operation. Therefore, PLL-based dq control is required for proper grid synchronization and stable power transfer.
+During simulation, it was found that the inverter-side currents and grid-side currents were not synchronized in open-loop operation. Therefore, PLL-based dq control is required to synchronize the inverter output with the grid voltage and ensure stable power transfer.
 
 ---
 
