@@ -28,7 +28,7 @@ The overall system consists of:
 
 ## System Block Diagram
 
-![BESS Grid Integration System](https://github.com/shanks005/Design-of-a-BESS-with-grid-integration/blob/main/ac_side_closed_loop.png)
+![BESS Grid Integration System](https://github.com/shanks005/Design-of-a-BESS-with-grid-integration/blob/main/closed_loop_system.png)
 
 ---
 
